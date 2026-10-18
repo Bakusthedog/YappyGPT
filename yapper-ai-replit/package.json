@@ -1,0 +1,13 @@
+{
+  "name": "yapper-ai-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Yapper AI bot using the supplied Bot API and OpenRouter",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
